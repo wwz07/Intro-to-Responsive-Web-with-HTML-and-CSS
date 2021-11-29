@@ -1,0 +1,21 @@
+h2{
+    font-size: 48px;
+    color:red;
+}
+
+ul a{
+    color:red;
+    text-decoration: none;
+}
+ul a:hover{
+    color:blue;
+    text-decoration:underline;
+}
+ul a:active{
+    color:orange;
+    
+}
+ul a:focus{
+    background-color: lightblue;
+}
+
