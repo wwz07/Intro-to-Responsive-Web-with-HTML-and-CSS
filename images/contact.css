@@ -1,0 +1,30 @@
+div{
+    background-color:antiquewhite;
+    height:30px;
+    width:500px;
+    margin:30px;
+    height:100px;
+    position:relative;
+}
+
+p{
+    height:20px;
+    width:300px;
+    padding:5px;
+    border:1px solid;
+    
+}
+span{
+    background-color:coral;
+    padding:10px;
+    position:absolute;
+    right:0;
+    top:0;
+    z-index:1;
+
+}
+
+.alt{
+    background-color: greenyellow;
+    z-index: 0;
+}

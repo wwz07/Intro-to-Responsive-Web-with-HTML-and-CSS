@@ -3,10 +3,11 @@ div{
     border:1px solid;
     margin-bottom:10px;
     height:100px;
+    overflow:hidden;
 }
 
 .consul{
     float:left;
     width:50%;
-    overflow: hidden;
+    
 }

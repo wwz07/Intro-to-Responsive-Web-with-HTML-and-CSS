@@ -1,10 +1,18 @@
 div{
     background-color: antiquewhite;
-    margin-bottom:15px;
-    padding:10px;
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
 }
 
-span{
+.navbar{
     background-color: burlywood;
-    padding:10px;
+    position:absolute;
+    height:8%;
+    width:96%;
+    right:2%;
+    top:2%;  
 }
+
